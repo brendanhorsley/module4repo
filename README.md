@@ -16,7 +16,22 @@ Most noticable is the low pass percentages for this school.
 The 2nd picture (below), is of the summary of the data after the 9th grade class had been removed.
 ![Summary_After_Removal](https://user-images.githubusercontent.com/96553988/151736790-9dffdcfe-130f-4053-b840-7063bb042e49.png)
 
-Noticable changes:
+The removal of data chose to not delete the rows of the ninth grade class but instead to remove their values from the calculation of grades.
+
+How our removal effected the data:
+* Total Students: no effect
+* Total School Budget: no effect
+* Per Student Budget: no effect
+* Avg Reading Score: no effect
+* Avg Math Score: no effect
+* % Passing Math: recalculated with new data creating an increase in the number of students who passed from Thomas High School
+* % Passing Reading: recalculated with new data creating an increase in the number of students who passed from Thomas High School
+* % Passing Overall : recalculated with new data creating an increase in the number of students who passed from Thomas High School
+
+
+# Analysis
+
+
 * The percentage of students who passed math incresed from 66.9% to 93.2%
 * The percentage of students who passed reading increased from 69.7% to 97.01%
 * The overall passing percentage increased from 65.1% to 90.6%
