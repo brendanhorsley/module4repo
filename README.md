@@ -12,3 +12,8 @@ After this data is removed the new completed data was reanalyzed to discover how
 ![Summary_Before_Removal](https://user-images.githubusercontent.com/96553988/151736830-13cba36e-1735-4d7a-8d29-e8923475bc9b.png)
 
 ![Summary_After_Removal](https://user-images.githubusercontent.com/96553988/151736790-9dffdcfe-130f-4053-b840-7063bb042e49.png)
+
+Noticable changes:
+* The percentage of students who passed math incresed from 66.9% to 93.2%
+* The percentage of students who passed reading increased from 69.7% to 97.01%
+* The overall passing percentage increased from 65.1% to 90.6%
