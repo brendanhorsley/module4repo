@@ -1,1 +1,14 @@
-# module4repo
+# School District Analysis
+
+## Overview
+The data worked on in this analysis consisted of data relating to high schools. 
+This data included the english and reading scores of students throughout multiple high schools.
+It was discovered that in the 9th grade classes of "Thomas High School", there was an instance of academic dishonesty that altered the data.
+Maria reached out to have the 9th grade data from this school removed without disrupting any of the other data.
+After this data is removed the new completed data was reanalyzed to discover how the removal of this grade level affected the overall data.
+
+## Results
+
+![Summary_Before_Removal](https://user-images.githubusercontent.com/96553988/151736830-13cba36e-1735-4d7a-8d29-e8923475bc9b.png)
+
+![Summary_After_Removal](https://user-images.githubusercontent.com/96553988/151736790-9dffdcfe-130f-4053-b840-7063bb042e49.png)
