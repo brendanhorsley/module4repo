@@ -37,6 +37,10 @@ Here is the data frame for the recalculated scores by spending:
 Here is the new data frame for the scores by school size:
 ![scores_by_size](https://user-images.githubusercontent.com/96553988/151740825-884d9b24-65c3-4c6b-927b-11785df34db1.png)
 
+And Lastly here is the updated score by type:
+![score_by_type](https://user-images.githubusercontent.com/96553988/151741025-7c5e57e5-26d8-44e7-9c6f-d311ed31397d.png)
+
+
 
 # Analysis
 Changes displayed after data removal:
