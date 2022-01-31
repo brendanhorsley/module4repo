@@ -28,10 +28,18 @@ How our removal effected the data:
 * % Passing Reading: recalculated with new data creating an increase in the number of students who passed from Thomas High School
 * % Passing Overall : recalculated with new data creating an increase in the number of students who passed from Thomas High School
 
+Below is the updated math scores by grade: 
+![math_scores_grade](https://user-images.githubusercontent.com/96553988/151740953-2ea2fa0b-5adf-4aa5-ae5a-71bacc59fe3a.png)
+
+Here is the data frame for the recalculated scores by spending:
+![scores_by_spending](https://user-images.githubusercontent.com/96553988/151740718-22337ebe-e494-451e-8435-b97ec12e5caf.png)
+
+Here is the new data frame for the scores by school size:
+![scores_by_size](https://user-images.githubusercontent.com/96553988/151740825-884d9b24-65c3-4c6b-927b-11785df34db1.png)
+
 
 # Analysis
-
-
+Changes displayed after data removal:
 * The percentage of students who passed math incresed from 66.9% to 93.2%
-* The percentage of students who passed reading increased from 69.7% to 97.01%
+* The percentage of students who passed reading increased from 69.7% to 97.0%
 * The overall passing percentage increased from 65.1% to 90.6%
