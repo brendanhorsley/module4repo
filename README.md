@@ -8,9 +8,12 @@ Maria reached out to have the 9th grade data from this school removed without di
 After this data is removed the new completed data was reanalyzed to discover how the removal of this grade level affected the overall data.
 
 ## Results
-
+Below is the summary of the data before the removal of the 9th grade class from Thomas High.
+Most noticable is the low pass percentages for this school.
 ![Summary_Before_Removal](https://user-images.githubusercontent.com/96553988/151736830-13cba36e-1735-4d7a-8d29-e8923475bc9b.png)
 
+
+The 2nd picture (below), is of the summary of the data after the 9th grade class had been removed.
 ![Summary_After_Removal](https://user-images.githubusercontent.com/96553988/151736790-9dffdcfe-130f-4053-b840-7063bb042e49.png)
 
 Noticable changes:
